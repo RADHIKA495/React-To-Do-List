@@ -24,3 +24,7 @@ Frontend: React (Hooks: useState, useEffect)
 
 
 ## Build Tool: Vite
+
+## Screenshots
+![React To-Do List](ToDoList.png)
+
